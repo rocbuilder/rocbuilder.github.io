@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-	<header>
+	<head>
 		<?php include_once("analyticstracking.php") ?>
-	</header>
+	</head>
 	<body>
 		<h1>Hello World</h1>
 	</body>
