@@ -2,6 +2,7 @@
 <html>
 
   <head>
+    <?php include_once("analyticstracking.php") ?>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="description" content="Rocbuilder.GitHub.io : ">
