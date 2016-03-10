@@ -8,3 +8,4 @@
   ga('send', 'pageview');
 
 </script>
+<php>echo "word word";</php>
